@@ -4,6 +4,7 @@ Trio:
 
 - Lucas Oliveira da Fonseca Augusto
 - Thiago Shiguero Kawahara
+- Ricardo Israel
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
 ## Desafio CSS
