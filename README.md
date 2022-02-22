@@ -1,8 +1,8 @@
 # Tecnologias Web
 
-DUPLA:
+Trio:
 
-- DIGITE O NOME DO PRIMEIRO INTEGRANTE
+- Lucas Oliveira da Fonseca Augusto
 - DIGITE O NOME DO SEGUNDO INTEGRANTE
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
